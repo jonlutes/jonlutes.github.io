@@ -1,8 +1,3 @@
----
-layout: default
-title: AWS Cloud Migration
----
-
 # AWS Cloud Migration & Security Hardening
 
 [**View Project Repository**](https://github.com/jonlutes/AWS-Cloud-Migration)
@@ -23,7 +18,7 @@ The new environment utilizes a **Virtual Private Cloud (VPC)** with a multi-tier
 * **Scaling:** Auto Scaling Groups (ASG) and Application Load Balancers (ALB) to handle traffic spikes.
 * **Content Delivery:** Amazon CloudFront and S3 for caching static assets.
 
-[Add PNG here]
+![Network Diagram](../images/network-diagram.png)
 ---
 
 ## Security Controls Implemented
