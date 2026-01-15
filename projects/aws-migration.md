@@ -23,7 +23,7 @@ The new environment utilizes a **Virtual Private Cloud (VPC)** with a multi-tier
 * **Scaling:** Auto Scaling Groups (ASG) and Application Load Balancers (ALB) to handle traffic spikes.
 * **Content Delivery:** Amazon CloudFront and S3 for caching static assets.
 
-![Network Diagram](../images/network-diagram.png)
+![Network Diagram](../images/aws-network-diagram.png)
 ---
 
 ## Security Controls Implemented
