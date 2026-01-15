@@ -1,3 +1,8 @@
+---
+layout: default
+title: AWS Cloud Migration
+---
+
 # AWS Cloud Migration & Security Hardening
 
 [**View Project Repository**](https://github.com/jonlutes/AWS-Cloud-Migration)
