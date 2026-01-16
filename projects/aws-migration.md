@@ -4,7 +4,7 @@ title: AWS Cloud Migration
 ---
 
 # AWS Cloud Migration & Security Hardening
-Simulated Case Study
+**Project Context:** This project simulates a real-world cloud migration for a fictional e-commerce company. While the business scenario is hypothetical, the infrastructure, security controls, and performance tests were **fully deployed and validated in a live AWS environment**.
 
 ## Executive Summary
 This project involved migrating "FillerName," a medium-sized e-commerce company, from a legacy on-premises environment to a secure Amazon Web Services (AWS) infrastructure. The legacy system suffered from single points of failure, lack of scalability, and security vulnerabilities due to a flat network architecture.
