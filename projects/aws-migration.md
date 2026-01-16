@@ -15,6 +15,7 @@ FillerName, a fast-growing e-commerce company, successfully migrated its public-
 | Scalability | **Fixed Capacity:** The physical server could not scale to meet peak traffic. The Apache web server process created strain during high demand. | **Auto-Scaling:** Migrated to NGINX and implemented Auto Scaling Groups (ASG) to dynamically add or remove instances based on traffic, ensuring performance during surges. |
 | Security | **Flat Architecture:** Lacked separation between the public internet and the internal network, leaving the database vulnerable to lateral movement attacks. | **Defense-in-Depth:** Created a multi-tiered Virtual Private Cloud (VPC) with strict network segmentation. The database is isolated in a private subnet with no direct internet access. |
 | Cost & Ops | **CapEx Model:** Required expensive, sporadic hardware replacements. IT staff spent excessive time on manual patching and maintenance. | **OpEx Model:** Shifted to a pay-as-you-go model. Managed services (AWS RDS) automated patching, reducing maintenance labor from ~10 hours to ~1 hour per month. |
+
 ---
 
 ## Architecture & Design
