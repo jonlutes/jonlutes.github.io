@@ -1,4 +1,5 @@
 # Resume
+
 ## Education
 ### B.S. Cybersecurity and Information Assurance — Western Governors University
 **Dec 2022 - Dec 2025**  
