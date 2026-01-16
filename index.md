@@ -2,7 +2,7 @@
 
 I am a B.S. Graduate in Cybersecurity and Information Assurance from WGU. I am also an IT professional with over 2 years experience in the field and over 8 years in various other fields. I have hands on experience in cloud architecture, network hardening, and system administration.
 
-### [Professional Resume]
+### [Professional Resume](./resume)
 
 ## Projects
 
