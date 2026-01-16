@@ -1,6 +1,6 @@
 ## Education
 ### B.S. Cybersecurity and Information Assurance — Western Governors University
-** Dec 2022 - Dec 2025**  
+**Dec 2022 - Dec 2025**  
 Applied advanced theoretical knowledge to real-world environments, gaining proficiency in Windows Server, Linux, and Active Directory administration. Developed an understanding of cloud architecture (AWS) and virtualization platforms such as VMware. Demonstrated technical depth in managing DNS infrastructure, email flow diagnostics, and wireless network troubleshooting. Utilized Python, SQL, and PowerShell to automate tasks and manage databases, while prioritizing organizational resilience through backup solutions, disaster recovery planning, and system hardening.
 ## Certifications
 CompTIA Pentest+	CompTIA CySA+	CompTIA Project+	CompTIA A+	CompTIA Network+	CompTIA Security+	Associate of ISC2 (SSCP)*	LPI Linux Essentials	ITIL V4 Foundations
