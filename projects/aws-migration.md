@@ -7,10 +7,14 @@ title: AWS Cloud Migration
 **Project Context:** This project simulates a real-world cloud migration for a fictional e-commerce company. While the business scenario is hypothetical, the infrastructure, security controls, and performance tests were **fully deployed and validated in a live AWS environment**.
 
 ## Executive Summary
-This project involved migrating "FillerName," a medium-sized e-commerce company, from a legacy on-premises environment to a secure Amazon Web Services (AWS) infrastructure. The legacy system suffered from single points of failure, lack of scalability, and security vulnerabilities due to a flat network architecture.
+FillerName, a fast-growing e-commerce company, successfully migrated its public-facing website and internal customer database from a legacy, self-hosted environment to Amazon Web Services (AWS). The project was executed by the internal server administrator over an 8-day timeline using the Waterfall methodology to ensure strict documentation and minimize scope creep. The primary goal was to resolve critical deficits in scalability, security, and operational inefficiency caused by aging on-premises hardware.
 
-**The Goal:** Transition from a Capital Expenditure (CapEx) model to an Operational Expenditure (OpEx) model while ensuring high availability and strictly enforced security controls.
-
+Challenge | Legacy Environment Issues | Cloud Solution Implementation |
+| :--- | :--- | :--- |
+| Availability | **Single Point of Failure:** The web app and database shared one physical server. A power outage or hardware failure would take the entire platform offline. | High Availability: Implemented a Multi-Availability Zone (AZ) architecture. If one data center fails, traffic automatically reroutes to another, ensuring continuity. |
+| Scalability | **Fixed Capacity:** The physical server could not scale to meet peak traffic. The Apache web server process created strain during high demand. | **Auto-Scaling:** Migrated to NGINX and implemented Auto Scaling Groups (ASG) to dynamically add or remove instances based on traffic, ensuring performance during surges. |
+| Security | **Flat Architecture:** Lacked separation between the public internet and the internal network, leaving the database vulnerable to lateral movement attacks. | **Defense-in-Depth:** Created a multi-tiered Virtual Private Cloud (VPC) with strict network segmentation. The database is isolated in a private subnet with no direct internet access. |
+| Cost & Ops | **CapEx Model:** Required expensive, sporadic hardware replacements. IT staff spent excessive time on manual patching and maintenance. | **OpEx Model:** Shifted to a pay-as-you-go model. Managed services (AWS RDS) automated patching, reducing maintenance labor from ~10 hours to ~1 hour per month. |
 ---
 
 ## Architecture & Design
@@ -58,8 +62,4 @@ The new architecture was stress-tested against four key performance indicators (
 ---
 
 ## Cost-Benefit Analysis
-Moving to the cloud eliminated the need for upfront hardware purchases ($5,000) in favor of a pay-as-you-go model.
-
-| Category | Legacy (On-Prem) | AWS Cloud (OpEx) |
-| :--- | :--- | :--- |
-| **Availability** | Single Point of Failure (0
+The migration has aligned FillerName’s infrastructure with its cultural pillars of frugality and employee well-being. By moving to an Operational Expense (OpEx) model, the company eliminated the risk of sudden $5,000 hardware replacement costs and optimized spending through auto-scaling. Furthermore, the IT team has shifted focus from reactive "fire-fighting" and manual maintenance to strategic business initiatives, as the cloud environment now automates critical patching and redundancy tasks.
