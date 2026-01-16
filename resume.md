@@ -50,4 +50,4 @@ Provided live phone captioning for individuals who are deaf or hard of hearing. 
 Assisted customers with initial loan applications by **managing inbound/outbound calls and emails**. Facilitated the verification of applicant employment and streamlined the loan application process. **Made improvements** to internal processes.
 
 
-## [Home](/index)
+## [Home](.index)
