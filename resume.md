@@ -30,8 +30,3 @@ Provided live phone captioning for individuals who are deaf or hard of hearing. 
 ### Customer Account Specialist — Tesani Companies
 **Jul 2017 - Dec 2019**  
 Assisted customers with initial loan applications by managing inbound/outbound calls and emails. Facilitated the verification of applicant employment and streamlined the loan application process. Made improvements to internal processes.
-## Projects
-### Migrated an on-premises server securely to AWS Cloud  
-Designed and executed the migration of a legacy e-commerce application to a high-availability AWS architecture. Used EC2 instances running NGINX and a managed RDS MySQL database. Engineered fault tolerance by provisioning a Multi-AZ (Availability Zone) VPC (Virtual Private Cloud) with Auto Scaling Groups and an Application Load Balancer to handle dynamic traffic loads. Validated performance through CloudWatch metrics, achieving 99.95% uptime and reducing latency to under via S3 and CloudFront integration.
-### Performed an external threat assessment  
-Contributed to an external security assessment of a non-profit organization using NIST framework standards. Discovered vulnerabilities in both private and public networks, detecting critical IP leakage where private network assets were publicly reachable, preventing unauthorized reconnaissance and potential lateral movement by external actors.  Performed open source intelligence gathering. Presented recommendations to the non-profit for remediation.
