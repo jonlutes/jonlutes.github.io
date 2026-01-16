@@ -1,6 +1,5 @@
 # Resume
 
-
 ## Education
 ### B.S. Cybersecurity and Information Assurance — Western Governors University
 **Dec 2022 - Dec 2025**  
@@ -29,7 +28,7 @@ Applied advanced theoretical knowledge to real-world environments, gaining profi
 ### Logistics Associate — United Parcel Service
 **Nov 2023 - Present**  
 Ensures compliance with **corporate safety policies** and **operational procedures** in a high-stakes, **zero-error environment**. Acts as a first line of defense in **risk identification** by inspecting thousands of items daily for **non-compliance**, damage, or **security anomalies**. Thrives in a **time-sensitive operational environment**, consistently **meeting critical daily deadlines** essential for business continuity.
-### Configuration Technician — Future Tech Enterprise
+<h3 style="margin-bottom: 0;">Configuration Technician — Future Tech Enterprise</h3>
 **Apr 2024 - Jun 2025**  
 **Diagnosed and resolved hardware and firmware issues** in non-operational enterprise **Windows 10/11** laptops and desktops, **coordinated with vendors** to order and install necessary parts. Managed users and machines using **Active Directory** and **MECM**. Additionally, **installed operating systems**, **software packages**, and **hardware** to ensure optimal system performance.
 ### B.S. Cybersecurity and Information Assurance — Western Governors University
