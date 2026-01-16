@@ -6,15 +6,17 @@ title: AWS Cloud Migration
 # AWS Cloud Migration & Security Hardening
 **Project Context:** This project simulates a real-world cloud migration for a fictional e-commerce company. While the business scenario is hypothetical, the infrastructure, security controls, and performance tests were **fully deployed and validated in a live AWS environment**.
 
+[**Full Project Report**](https://docs.google.com/document/d/1thAkGpULCXh0N6v_UeI-0A2rhMPPmbRbmLuBGot0RP0/edit?tab=t.0)
+
 ## Executive Summary
 FillerName, a fast-growing e-commerce company, successfully migrated its public-facing website and internal customer database from a legacy, self-hosted environment to Amazon Web Services (AWS). The project was executed by the internal server administrator over an 8-day timeline using the Waterfall methodology to ensure strict documentation and minimize scope creep. The primary goal was to resolve critical deficits in scalability, security, and operational inefficiency caused by aging on-premises hardware.
 
 | Challenge | Legacy Environment Issues | Cloud Solution Implementation |
 | :--- | :--- | :--- |
-| Availability | **Single Point of Failure:** The web app and database shared one physical server. A power outage or hardware failure would take the entire platform offline. | High Availability: Implemented a Multi-Availability Zone (AZ) architecture. If one data center fails, traffic automatically reroutes to another, ensuring continuity. |
-| Scalability | **Fixed Capacity:** The physical server could not scale to meet peak traffic. The Apache web server process created strain during high demand. | **Auto-Scaling:** Migrated to NGINX and implemented Auto Scaling Groups (ASG) to dynamically add or remove instances based on traffic, ensuring performance during surges. |
-| Security | **Flat Architecture:** Lacked separation between the public internet and the internal network, leaving the database vulnerable to lateral movement attacks. | **Defense-in-Depth:** Created a multi-tiered Virtual Private Cloud (VPC) with strict network segmentation. The database is isolated in a private subnet with no direct internet access. |
-| Cost & Ops | **CapEx Model:** Required expensive, sporadic hardware replacements. IT staff spent excessive time on manual patching and maintenance. | **OpEx Model:** Shifted to a pay-as-you-go model. Managed services (AWS RDS) automated patching, reducing maintenance labor from ~10 hours to ~1 hour per month. |
+| **Availability** | **Single Point of Failure:** The web app and database shared one physical server. A power outage or hardware failure would take the entire platform offline. | **High Availability:** Implemented a Multi-Availability Zone (AZ) architecture. If one data center fails, traffic automatically reroutes to another, ensuring continuity. |
+| **Scalability** | **Fixed Capacity:** The physical server could not scale to meet peak traffic. The Apache web server process created strain during high demand. | **Auto-Scaling:** Migrated to NGINX and implemented Auto Scaling Groups (ASG) to dynamically add or remove instances based on traffic, ensuring performance during surges. |
+| **Security** | **Flat Architecture:** Lacked separation between the public internet and the internal network, leaving the database vulnerable to lateral movement attacks. | **Defense-in-Depth:** Created a multi-tiered Virtual Private Cloud (VPC) with strict network segmentation. The database is isolated in a private subnet with no direct internet access. |
+| **Cost & Ops** | **CapEx Model:** Required expensive, sporadic hardware replacements. IT staff spent excessive time on manual patching and maintenance. | **OpEx Model:** Shifted to a pay-as-you-go model. Managed services (AWS RDS) automated patching, reducing maintenance labor from ~10 hours to ~1 hour per month. |
 
 ---
 
