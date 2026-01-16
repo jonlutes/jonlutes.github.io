@@ -9,7 +9,7 @@ title: AWS Cloud Migration
 ## Executive Summary
 FillerName, a fast-growing e-commerce company, successfully migrated its public-facing website and internal customer database from a legacy, self-hosted environment to Amazon Web Services (AWS). The project was executed by the internal server administrator over an 8-day timeline using the Waterfall methodology to ensure strict documentation and minimize scope creep. The primary goal was to resolve critical deficits in scalability, security, and operational inefficiency caused by aging on-premises hardware.
 
-Challenge | Legacy Environment Issues | Cloud Solution Implementation |
+| Challenge | Legacy Environment Issues | Cloud Solution Implementation |
 | :--- | :--- | :--- |
 | Availability | **Single Point of Failure:** The web app and database shared one physical server. A power outage or hardware failure would take the entire platform offline. | High Availability: Implemented a Multi-Availability Zone (AZ) architecture. If one data center fails, traffic automatically reroutes to another, ensuring continuity. |
 | Scalability | **Fixed Capacity:** The physical server could not scale to meet peak traffic. The Apache web server process created strain during high demand. | **Auto-Scaling:** Migrated to NGINX and implemented Auto Scaling Groups (ASG) to dynamically add or remove instances based on traffic, ensuring performance during surges. |
