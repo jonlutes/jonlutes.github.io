@@ -1,6 +1,8 @@
-# Welcome to My Portfolio
+# My Portfolio
 
-I am a Cybersecurity and IT professional with experience in cloud architecture, network hardening, and system administration. Below are case studies of my technical projects.
+I am a B.S. Graduate in Cybersecurity and Information Assurance from WGU. I am also an IT professional with over 2 years experience in the field and over 8 years in various other fields. I have hands on experience in cloud architecture, network hardening, and system administration.
+
+### [Professional Resume]
 
 ## Projects
 
