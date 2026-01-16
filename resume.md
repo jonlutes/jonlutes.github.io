@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resume
+---
+
 # Resume
 
 ## Education
