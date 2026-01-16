@@ -1,9 +1,11 @@
 # Resume
 
+
 ## Education
 ### B.S. Cybersecurity and Information Assurance — Western Governors University
 **Dec 2022 - Dec 2025**  
 Applied advanced theoretical knowledge to real-world environments, gaining proficiency in **Windows Server**, **Linux**, and **Active Directory administration**. Developed an understanding of **cloud architecture (AWS)** and virtualization platforms such as **VMware**. Demonstrated technical depth in managing **DNS infrastructure**, **email flow diagnostics**, and **wireless network troubleshooting**. Utilized **Python**, **SQL**, and **PowerShell** to automate tasks and manage databases, while prioritizing organizational resilience through **backup solutions**, **disaster recovery planning**, and **system hardening**.
+
 ## Certifications
 [**CompTIA Pentest+**](https://www.credly.com/badges/c57b0bc4-2687-4b15-8ed8-bdb2c6e17b72/public_url)  
 [**CompTIA CySA+**](https://www.credly.com/badges/1b4ac475-e3af-4387-9ed1-48c2f516be13/public_url)  
@@ -15,12 +17,14 @@ Applied advanced theoretical knowledge to real-world environments, gaining profi
 [**LPI Linux Essentials**](https://www.credly.com/badges/3a5095a3-d76e-4762-b5cf-4d3cc6e6519b/public_url)  
 [**ITIL V4 Foundations**](https://drive.google.com/file/d/1IcWcVFRc2Wi-5zr8VTEt7g5k-PIkz0Zz/view?usp=share_link)  
 *Full membership will be attained within 2 weeks.
+
 ## Skills
 **Customer Success:** Technical Support (3+ years), Customer Support (5+ years)  
 **Infrastructure & Cloud:** Windows Server (Active Directory), Mac, Linux (Ubuntu, Kali, Debian), VMWare, MySQL, AWS (EC2, S3, CloudFront, CloudWatch, ALB, VPC, Multi-AZ)  
 **Security Operations:** Wazuh SIEM, Snort, OWASP Zap, Nessus  
 **Security Tools:** Metasploit, Tcpdump, Wireshark, NMAP, OSINT, Burp Suite, John The Ripper, sqlmap  
 **Automation:** Python, PowerShell  
+
 ## Work History
 ### Logistics Associate — United Parcel Service
 **Nov 2023 - Present**  
@@ -40,4 +44,6 @@ Provided live phone captioning for individuals who are deaf or hard of hearing. 
 ### Customer Account Specialist — Tesani Companies
 **Jul 2017 - Dec 2019**  
 Assisted customers with initial loan applications by **managing inbound/outbound calls and emails**. Facilitated the verification of applicant employment and streamlined the loan application process. **Made improvements** to internal processes.
+
+
 ## [Home](./index)
