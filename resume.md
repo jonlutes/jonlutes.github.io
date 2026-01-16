@@ -9,9 +9,9 @@ Applied advanced theoretical knowledge to real-world environments, gaining profi
 [CompTIA A+](https://www.credly.com/badges/2607221e-08be-46f7-84db-63fc156140e4/public_url)  
 [CompTIA Network+](https://www.credly.com/badges/f4d762dc-7169-4aaa-9038-2a72ed6492ee/public_url)	 
 [CompTIA Security+](https://www.credly.com/badges/90705896-79c8-4b2b-978b-b9defebaf1ad)	 
-[Associate of ISC2 (SSCP)](https://www.credly.com/badges/3e384d42-7b07-4d88-aa0a-acb6a46bedd4/public_url)*	
- [LPI Linux Essentials](https://www.credly.com/badges/3a5095a3-d76e-4762-b5cf-4d3cc6e6519b/public_url)  
- [ITIL V4 Foundations](https://drive.google.com/file/d/1IcWcVFRc2Wi-5zr8VTEt7g5k-PIkz0Zz/view?usp=share_link)  
+[Associate of ISC2 (SSCP)](https://www.credly.com/badges/3e384d42-7b07-4d88-aa0a-acb6a46bedd4/public_url)*	 
+[LPI Linux Essentials](https://www.credly.com/badges/3a5095a3-d76e-4762-b5cf-4d3cc6e6519b/public_url)  
+[ITIL V4 Foundations](https://drive.google.com/file/d/1IcWcVFRc2Wi-5zr8VTEt7g5k-PIkz0Zz/view?usp=share_link)  
 *Full membership will be attained within 2 weeks.
 ## Skills
 **Customer Success:** Technical Support (3+ years), Customer Support (5+ years)  
