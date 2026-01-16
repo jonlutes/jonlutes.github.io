@@ -68,4 +68,4 @@ The new architecture was stress-tested against four key performance indicators (
 The migration has aligned FillerName’s infrastructure with its cultural pillars of frugality and employee well-being. By moving to an Operational Expense (OpEx) model, the company eliminated the risk of sudden $5,000 hardware replacement costs and optimized spending through auto-scaling. Furthermore, the IT team has shifted focus from reactive "fire-fighting" and manual maintenance to strategic business initiatives, as the cloud environment now automates critical patching and redundancy tasks.
 
 
-## [Home](./index)
+## [Home](../index)
