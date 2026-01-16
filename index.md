@@ -7,8 +7,8 @@ I am a B.S. Graduate in Cybersecurity and Information Assurance from WGU. I am a
 ## Projects
 
 ### [AWS Cloud Migration & Security Hardening](./projects/aws-migration)
-**Status:** Completed | **Role:** Cloud Architect
-/nA secure cloud migration project moving a legacy e-commerce platform to a high-availability AWS architecture.
+**Status:** Completed | **Role:** Cloud Architect  
+A secure cloud migration project moving a legacy e-commerce platform to a high-availability AWS architecture.
 * **Key Tech:** AWS (EC2, RDS, VPC), NGINX, Auto Scaling.
 * **Outcome:** Achieved 100% uptime and reduced latency to under 320ms.
 
