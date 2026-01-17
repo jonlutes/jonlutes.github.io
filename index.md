@@ -13,5 +13,5 @@ A secure cloud migration project moving a legacy e-commerce platform to a high-a
 * **Outcome:** Achieved 100% uptime and reduced latency to under 320ms.
 
 ### [Home Lab SIEM Implementation](./projects/siem-lab)
-**Status:** Planned
+**Status:** Planned  
 Deploying Wazuh for endpoint detection and response (EDR) and log analysis.
