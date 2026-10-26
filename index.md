@@ -1,10 +1,16 @@
 # My Portfolio
 
-I am a B.S. Graduate in Cybersecurity and Information Assurance from WGU. I am also an IT professional with over 2 years experience in the field and over 8 years professional experience in various other fields. I have hands on experience in cloud architecture, network hardening, and system administration.
+I am an early-career cybersecurity analyst with an M.S. and a B.S. in Cybersecurity and Information Assurance from WGU. I hold the CompTIA Security+, CySA+, and PenTest+ certifications and the ISC2 SSCP. My two capstone projects were a Splunk Cloud SIEM design with MITRE ATT&CK-mapped detections for a PCI DSS-scoped fintech, and a multi-AZ AWS environment with network segmentation and CloudWatch monitoring. I also bring 10+ years of customer-facing technical support experience.
 
 ## [Professional Resume](./resume)
 
 ## Projects
+
+### [SIEM Implementation in a Corporate Environment (M.S. Capstone)](./projects/siem-implementation)
+**Status:** Completed | **Type:** M.S. Capstone  
+A SIEM implementation plan and post-implementation report for a simulated 475-employee fintech company that has eight siloed security tools and an upcoming PCI DSS audit.
+* **Key Tech:** Splunk Cloud, MITRE ATT&CK, NIST CSF 2.0, PCI DSS v4.0.1 (Req. 10).
+* **Outcome:** The model projects mean time to detect falling from 9.5 to 1.5 hours and mean time to respond from 17 to 4 hours. The design closes all four PCI DSS logging findings, at a projected year-one cost of ~$60K against ~$230K per year in reclaimed analyst time.
 
 ### [AWS Cloud Migration & Security Hardening](./projects/aws-migration)
 **Status:** Completed | **Role:** Cloud Architect  
